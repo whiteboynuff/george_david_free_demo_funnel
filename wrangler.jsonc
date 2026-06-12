@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "georgexdavidfreefunneldemo",
+  "compatibility_date": "2026-06-12",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "george-david-funnel"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
