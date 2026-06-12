@@ -240,9 +240,8 @@ ul { list-style: none; }
   margin: 0 auto;
   padding: 18px 40px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  gap: 40px;
 }
 .trust-bar-item {
   font-family: var(--font-sans);
